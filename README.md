@@ -1,2 +1,2 @@
-# FullStackTodoApplication
-Waxaan ku dhisay C# || ASP.NET core || PostgreSQL || Entity FrameWork || ReactTypeScript || TailwindCss 
+# Fullstack Todo App
+Mehdi LAHLOU MIMI C# || ASP.NET core || PostgreSQL || Entity FrameWork || ReactTypeScript || TailwindCss 
